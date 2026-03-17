@@ -65,3 +65,4 @@ Loan distribution across regions or loan types
 📊 Performance Monitoring: Tracks KPIs for continuous business improvement
 
 6. Screenshots / Demos
+https:(//github.com/nutanprakash01/PowerBi_Dashboard_Project/commit/4460f01300069f537b8149f73024a63ea12fb9a7)
